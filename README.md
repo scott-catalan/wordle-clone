@@ -26,14 +26,14 @@ If you want to run the Python script directly:
 
 1. Ensure you have Python 3.x installed.
 2. Download the repository.
-3. Ensure the `assets` folder, `wordle_gui.py`, and `wordle_logic.py` are in the same directory,.
-4. Execute the main GUI script: wordle_gui.py
+3. Ensure the `assets` folder, `wordle_gui.py`, and `wordle_logic.py` are in the same directory.
+4. Execute the main GUI script: `wordle_gui.py`
 
 *Note: This project uses tkinter, which is included in the Python standard library.*
 
 ### Project Structure:
 
-- `wordle_clone.exe`    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;# The full packaged game
+- `Wordle.exe`    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;# The full packaged game
 - `wordle_gui.py`       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;# Game visuals
 - `wordle_logic.py`     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;# Game logic
 - `assets/`
